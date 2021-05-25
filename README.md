@@ -4,9 +4,9 @@ Materiales del Webinar del 13-May-2021
 
 Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/Modelos_en_Produccion.pdf)
 
-Y desde aquí puedes acceder a la [grabación](https://es-la.facebook.com/datamining.pe/videos/) en Facebook:
+Y desde aquí puedes acceder a la [grabación](https://youtu.be/G4azMRVG4K4) en Youtube:
 
-[![IMAGEN](docs/Modelos.png)](https://es-la.facebook.com/datamining.pe/videos/)
+[![IMAGEN](docs/Modelos.png)](https://youtu.be/G4azMRVG4K4)
 
 
 ## Referencias
